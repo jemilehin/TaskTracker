@@ -16,13 +16,12 @@ The Asyncstorage enable the user to store created task
 </strong>
 
 # Potential Improvements
-<p>
+
 1. To enable a delete functionality for a single or multiple task
 2. Make use of redux or anyother state management to instantly manage state of created new task
 3. Implement Updated task functionality
 4. Display task in the task screen
 5. Display a bottom panel to let user view active, complete and all task
-</p>
 
 # Getting started 
 
