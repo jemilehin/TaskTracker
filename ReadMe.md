@@ -8,11 +8,11 @@
 
 # Libraries Used
 <strong>
-    The viewpager library is used to already display filtered task by i.e 'active' || 'complete'
+    The viewpager library is used to already display filtered task by i.e 'active' || 'complete'.
 </strong>
 <strong>
-AsyncStorage library to persist data when the user get back in to the application.
-the Asyncstorage enable the user to create and update task
+AsyncStorage library is used to persist data when the user gets back in to the application.
+The Asyncstorage enable the user to store created task
 </strong>
 
 # Potential Improvements
