@@ -27,5 +27,5 @@ The Asyncstorage enable the user to store created task
 # Getting started 
 
 1. npm install
-2. reload to app to new task added
+2. reload app to view new task added
 3. swipe left to see active task
