@@ -1,0 +1,31 @@
+# Task Tracker
+
+<p>
+    This an app that enable one to a create task. It also let's one to track thier task
+    by changing task tag to active or complete.
+</p>
+
+
+# Libraries Used
+<strong>
+    The viewpager library is used to already display filtered task by i.e 'active' || 'complete'
+</strong>
+<strong>
+AsyncStorage library to persist data when the user get back in to the application.
+the Asyncstorage enable the user to create and update task
+</strong>
+
+# Potential Improvements
+<p>
+1. To enable a delete functionality for a single or multiple task
+2. Make use of redux or anyother state management to instantly manage state of created new task
+3. Implement Updated task functionality
+4. Display task in the task screen
+5. Display a bottom panel to let user view active, complete and all task
+</p>
+
+# Getting started 
+
+1. npm install
+2. reload to app to new task added
+3. swipe left to see active task
