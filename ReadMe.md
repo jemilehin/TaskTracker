@@ -20,11 +20,11 @@ The Asyncstorage enable the user to store created task
 1. To enable a delete functionality for a single or multiple task
 2. Make use of redux or anyother state management to instantly manage state of created new task
 3. Implement Updated task functionality
-4. Display task in the task screen
-5. Display a bottom panel to let user view active, complete and all task
+4. Display task details in the task screen
+5. Display a bottom panel tab to let user know they can view 'active' and 'complete' task
 
 # Getting started 
 
 1. npm install
-2. reload app to view new task added
-3. swipe left to see active task
+2. reload app to view new task after created
+3. swipe left to see active or complete task
